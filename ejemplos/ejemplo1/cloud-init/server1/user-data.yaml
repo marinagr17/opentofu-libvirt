@@ -10,7 +10,7 @@ users:
 chpasswd:
   expire: False
   users:
-    - name: marina
+    - name: debian
       password: asdasd
       type: text
 package_update: true
